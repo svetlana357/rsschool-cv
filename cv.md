@@ -16,8 +16,6 @@ I don't have development skills.
 ## Code Example ##
 ```javascript function sum(a, b) {
   return a + b;
-}
-
 let result = sum(1, 2);
 alert( result ); 
 ```
