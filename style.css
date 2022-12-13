@@ -24,4 +24,8 @@ font-family: 'Roboto';
 * {
     box-sizing: border-box;
   }
+
+  body {
+    border: 1px brown;
+  }
   
