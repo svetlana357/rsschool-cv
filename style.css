@@ -34,3 +34,10 @@ font-family: 'Roboto';
     flex-direction: column;
     justify-content: space-between;
   }
+
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
