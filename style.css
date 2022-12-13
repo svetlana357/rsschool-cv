@@ -28,4 +28,9 @@ font-family: 'Roboto';
   body {
     border: 1px brown;
   }
-  
+ 
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
