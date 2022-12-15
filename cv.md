@@ -12,7 +12,9 @@ _Discord_
 svetlana#3152
 
 ## About Me ##
-I am 31 years oid. I have technical and economic higher education, I am ready to receive new knowledge. My goal is to gain knowledge in the field of front-end development and change the scope, work remotely.
+I am 31 years oid. I have technical and economic higher education,
+I am ready to receive new knowledge. My goal is to gain knowledge in the field of front-end development and change the scope, work remotely.
+
 ## Skills ##
 I don't have development skills.
 ## Code Example ##
