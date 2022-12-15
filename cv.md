@@ -25,7 +25,7 @@ alert( result );
 ```
 ## Education ##
 1. Zhodino State Polytechnic College (engineering technology)
-2. Belarusian National Technical University (engineering technology)
+2. Zhodino State Polytechnic College (engineering technology)
 3. Belarusian National Technical University (economics at industrial enterprises, training)
 ## Languages ##
 Russian - native speaker.

@@ -34,3 +34,35 @@ body {
   flex-direction: column;
   justify-content: space-between;
 }
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+} 
+html {
+  scroll-behavior: smooth; 
+} 
+.nav-list {
+  list-style: none;
+}
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+}
+.nav-link {
+  transition: .2s;
+}
+.section-item a {
+  color: #8fb694;
+  text-decoration: none;  
+  transition: color 0.5s;
+}
+.section-item a:hover {
+  color: #3c1111;
+}
+
