@@ -1,16 +1,20 @@
-### **_Svetlana_ Parkhimovich** ###
+# **Svetlana Parkhimovich** #
 ## Contacts ##
-Location:
+_Location:_
 Luban, Belarus 
-## Phone: ##
+_Phone:_ 
  +375293115779
-## Email: ## 
+_Email:_ 
 svetlanadergaus@mail.ru
-## GitHub: ## 
+_GitHub:_ 
 svetlana357
+_Discord_
+svetlana#3152
+
 ## About Me ##
-I am 31 years oid, I am currently on parental leave, work in a company Technoton as a manager. My goal is to gain knowledge in the field of front-end development and change the scope, work remotely.
- I have technical and economic higher education, I am ready to receive new knowledge.
+I am 31 years oid. I have technical and economic higher education,
+I am ready to receive new knowledge. My goal is to gain knowledge in the field of front-end development and change the scope, work remotely.
+
 ## Skills ##
 I don't have development skills.
 ## Code Example ##
@@ -23,7 +27,7 @@ alert( result );
 ```
 ## Education ##
 1. Zhodino State Polytechnic College (engineering technology)
-2. Belarusian National Technical University (engineering technology)
+2. Zhodino State Polytechnic College (engineering technology)
 3. Belarusian National Technical University (economics at industrial enterprises, training)
 ## Languages ##
 Russian - native speaker.
