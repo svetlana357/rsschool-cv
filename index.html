@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
  <head>
-         <title>cv</title>
+            <meta charset="utf-8">
+            <title>cv</title>
          <link rel="stylesheet" href="style.css"> 
          <link rel="icon" href="assets/img/1.ico"> 
          <link rel="preconnect" href="https://fonts.googleapis.com">
          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
          <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
-  </head>
+ </head>
     
  <body>
+   <div>
         <header class="header">
         <div class="container">
           <nav class="nav">
@@ -26,10 +28,11 @@
         </header>
        
         <main class="main">
+        <main class="main-container">
         <div class="container">
-         <section class="section" id="profile">
+        <section class="section" id="profile">
             <h1 class="section-title"> Svetlana Parkhimovich</h1>
-            <img src="assets/img/IMG_9478.JPG" alt="my foto" width="200" height="270">
+            <img class="avatar" src="assets/img/IMG_9478.JPG" alt="my foto">
         </div>
         </section>
         
@@ -58,7 +61,7 @@
         </section>
         <section class="section" id="Code Example">
           <h2 class="section-title">Code Example </h2>
-          
+
           ```javascript function sum(a, b) {
             return a + b;
           }
@@ -67,7 +70,6 @@
           alert( result ); 
           ```
         </section>
-
         <section class="section" id="Education">
           <h2 class="section-title">Education</h2>
           <ol>
@@ -76,7 +78,6 @@
             <li>Belarusian National Technical University (economics at industrial enterprises, training)</li>
            </ol>
        </section>
-
        <section class="section" id="Languages">
         <h2 class="section-title">Languages</h2>
         <ul>
@@ -84,10 +85,20 @@
           <li>English - A2 (B1 in process…)</li>
         </ul>
      </section>
-
         </main>
+      </main>
+
       <footer class="footer">
-        <div class="container"></div>
-     
+    <div class="container">
+      <div class="social">
+      <ul class="social">
+        <li><a href="https://rs.school/js/"><img class="icons" src="assets/img/rs_school_js.svg" alt=""></a></li>
+        <p><h3>2022</h3></p>
+        <li><a href="#"><img class="icons" src="assets/img/discord.jfif" alt=""></a></li>
+        <li><a href="#"><img class="icons" src="assets/img/github.png" alt=""></a></li>
+      </ul>
+      </div>
+    </div>
+      </footer>
   </body>
 </html>
